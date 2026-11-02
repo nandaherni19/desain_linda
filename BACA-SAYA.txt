@@ -1,0 +1,16 @@
+Linda Kosmetik Palembang – Versi 1.2 (tema referensi Divine Touch)
+
+index.html
+  Versi demo offline. Buka langsung di browser (double-click).
+  Tombol "Mode demo" di kiri bawah:
+  - Pengunjung: tampilan pelanggan yang belum member.
+  - Member: masuk sebagai member contoh "Sari" (LND-2026); menu Member membuka Akun Saya.
+  - Reset: kembalikan data demo ke kondisi awal.
+
+linda-v1.2-artifact.html
+  File asli yang dipakai di claude.ai (butuh database claude.ai).
+
+data/linda-data.json   Data produk, brand, kategori, banner, pengaturan toko.
+assets/                Potret Ce Linda dan logo brand contoh.
+
+Struktur halaman, menu, dan fitur sama dengan versi 1.1; yang berbeda hanya tampilan.
